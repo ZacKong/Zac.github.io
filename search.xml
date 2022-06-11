@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Java Reverse a List</title>
+      <link href="/2022/06/11/Java-Reverse-a-List/"/>
+      <url>/2022/06/11/Java-Reverse-a-List/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Java-Reverse-a-List-x2F-Arraylist"><a href="#Java-Reverse-a-List-x2F-Arraylist" class="headerlink" title="Java Reverse a List&#x2F;Arraylist"></a>Java Reverse a List&#x2F;Arraylist</h2><p>We can just use the built-in method to reverse it.</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Collections.reverse(list);</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> QuickNote </tag>
+            
+            <tag> Java </tag>
+            
+            <tag> Reverse </tag>
+            
+            <tag> List </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Traversal of a Binary Tree</title>
       <link href="/2022/06/03/Traversal-of-a-Binary-Tree/"/>
       <url>/2022/06/03/Traversal-of-a-Binary-Tree/</url>
